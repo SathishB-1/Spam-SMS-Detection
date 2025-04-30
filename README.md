@@ -73,3 +73,6 @@ Once trained, the model can predict whether a new SMS is spam or not, helping pr
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## User Interface
+
+![image alt](https://github.com/SathishB-1/Spam-SMS-Detection/blob/86464f3959116e036c52a532ebd2c4e91b7dbdf7/UI.png)
